@@ -10,8 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
+<<<<<<< HEAD
     "mqtt": "^3.0.0",
     "twilio": "^3.39.0",
     "twitter": "^1.7.1"
+=======
+    "influx": "^5.5.1",
+    "mqtt": "^3.0.0",
+    "mysql": "^2.17.1"
+>>>>>>> cc4e385a2225fed3879122627089d494daffa515
   }
 }
